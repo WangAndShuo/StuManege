@@ -1,0 +1,6 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="StuManageSystem">
+    <output-path>$PROJECT_DIR$/out/artifacts/StuManageSystem</output-path>
+    <root id="archive" name="StuManageSystem.war" />
+  </artifact>
+</component>
